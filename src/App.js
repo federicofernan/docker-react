@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World! This is a React.Js Application
+          Hello World! This is a React.Js Application - New Feature
         </p>
         <a
           className="App-link"
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Changed for Feature Branch
+          Learn React
         </a>
       </header>
     </div>
